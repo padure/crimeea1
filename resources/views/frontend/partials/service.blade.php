@@ -22,8 +22,8 @@
         <div class="service-item position-relative mx-2">
             <img class="img-fluid" src="{{ asset('imagini/services/service2.jpg') }}" alt="">
             <div class="service-text text-center">
-                <h4 class="text-white font-weight-medium px-3">Dormitoare </h4>
-                <p class="text-white px-3 mb-3">Dispunem de două dormitoare confortabile pentru a vă odihni și recupera după o zi plină de relaxare.</p>
+                <h4 class="text-white font-weight-medium px-3">Cameră de odihnă</h4>
+                <p class="text-white px-3 mb-3">Dispunem de cameră de odihnă confortabilă pentru a vă odihni și recupera după o zi plină de relaxare.</p>
                 <div class="w-100 bg-white text-center p-4" >
                     <a class="btn btn-primary" href="">Vezi detalii</a>
                 </div>

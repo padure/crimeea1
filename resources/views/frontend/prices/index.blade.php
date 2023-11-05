@@ -8,8 +8,8 @@
     }
 @endphp
 
-@section('meta_description', '')
-@section('meta_keywords', "")
+@section('meta_description', 'Bucurați-vă de o experiență de relaxare de neegalat la Sauna Crimeea. Oferim servicii de înaltă calitate, inclusiv jacuzzi, aqua-șoc, hammam, salină și multe altele. Rezervați acum pentru o vacanță relaxantă în Chișinău.')
+@section('meta_keywords', "Sauna Crimeea, Relaxare, Spațiu Wellness, Jacuzzi, Aqua-Șoc, Bazin cu Filtru, Hammam, Salina, Închiriere Saună, Prețuri Saună, Banchet, Karaoke, Wi-Fi, Masaj, Rezervări, Copii Gratis, Adresă Saună, Oferte Speciale, Saună 24/7, Chișinău, Tratamente cu Sare, Vacanță Relaxantă")
 
 @section('content')
     <div class="container-fluid" style="margin: 50px 0 90px;">
@@ -36,7 +36,7 @@
                                     <li>Bazin cu filtru</li>
                                     <li>Jacuzzi</li>
                                     <li>Aqua-șoc</li>
-                                    <li>Dormitoare - 2</li>
+                                    <li>Cameră de odihnă</li>
                                     <li>Duș și Baie</li>
                                     <li>Sală de Banchet</li>
                                     <li>TV</li>

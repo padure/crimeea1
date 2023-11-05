@@ -25,7 +25,7 @@
                         <h6 class="text-white text-uppercase mb-3 animate__animated animate__fadeInDown" style="letter-spacing: 3px;">Sauna Crimeea</h6>
                         <h3 class="display-3 text-capitalize text-white mb-3">Descoperă Serviciile Noastre</h3>
                         <p class="mx-md-5 px-5">
-                            Oferim o gama variata de servicii de infrumusetare si relaxare, de la sesiuni de sauna cu aburi pana la masaje terapeutice si terapii cu lumina infrarosie. La Sauna Crimea, avem tot ce iti trebuie pentru a-ti rasfata trupul si mintea. Fiecare serviciu este conceput pentru a te face sa te simti minunat.
+                            Oferim o gama variata de servicii de relaxare. La Sauna Crimea, avem tot ce iți trebuie pentru a-ți rasfăța trupul și mintea. Fiecare serviciu este conceput pentru a te face sa te simti minunat.
                         </p>
                     </div>
                 </div>

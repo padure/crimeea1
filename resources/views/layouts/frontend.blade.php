@@ -2,11 +2,11 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
-    <title>{{ config('app.name', 'Zambetul')}} @yield('title')</title>
+    <title>{{ config('app.name', 'Sauna Crimeea')}} @yield('title')</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-          content="@yield('meta_description', config('app.name', 'Zambetul'))">
-    <meta name="keywords" content="@yield('meta_keywords', config('app.name', 'Zambetul'))">
+          content="@yield('meta_description', config('app.name', 'Sauna Crimeea'))">
+    <meta name="keywords" content="@yield('meta_keywords', config('app.name', 'Sauna Crimeea'))">
     @yield('meta')
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
