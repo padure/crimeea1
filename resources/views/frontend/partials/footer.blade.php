@@ -5,7 +5,7 @@
                 <a href="index.html" class="navbar-brand">
                     <h1 class="mb-3 text-white"><span class="text-primary">SAUNA</span> Crimeea</h1>
                 </a>
-                <p>Oferim o gamă variată de servicii de înfrumusețare și relaxare. La Sauna Crimea, avem tot ce iți trebuie pentru a-ți rasfăța trupul și mintea. Fiecare serviciu este conceput pentru a te face să te simți minunat.</p>
+                <p>Oferim o gamă variată de servicii de relaxare. La Sauna Crimea, avem tot ce iți trebuie pentru a-ți rasfăța trupul și mintea. Fiecare serviciu este conceput pentru a te face să te simți minunat.</p>
                 <p><i class="fa fa-map-marker-alt mr-2"></i>mun. Chiținău str. Frumuşica 1, Republica Moldova</p>
                 <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+37378953583">+37378953583</a></p>
                 <p><i class="fa fa-envelope mr-2"></i>crimeea@gmail.com</p>
