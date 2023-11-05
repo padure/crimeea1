@@ -10,10 +10,12 @@
                 <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+37378953583">+37378953583</a></p>
                 <p><i class="fa fa-envelope mr-2"></i>crimeea@gmail.com</p>
                 <div class="d-flex justify-content-start mt-4">
-                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="{{ url('https://www.facebook.com/SaunaCrimeea') }}">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a class="btn btn-lg btn-primary btn-lg-square" href="{{ url('https://www.instagram.com/sauna.crimea.frumusica/') }}">
+                        <i class="fab fa-instagram"></i>
+                    </a>
                 </div>
             </div>
             <div class="col-lg-6 pl-lg-5">

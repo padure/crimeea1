@@ -15,10 +15,10 @@
         </div>
         <div class="col-lg-6 text-right">
             <div class="d-inline-flex align-items-center">
-                <a class="text-primary px-2" href="">
+                <a class="text-primary px-2" href="{{ url('https://www.facebook.com/SaunaCrimeea') }}">
                     <i class="fab fa-facebook-f"></i>
                 </a>
-                <a class="text-primary px-2" href="">
+                <a class="text-primary px-2" href="{{ url('https://www.instagram.com/sauna.crimea.frumusica/') }}">
                     <i class="fab fa-instagram"></i>
                 </a>
             </div>
