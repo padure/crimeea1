@@ -1,0 +1,26 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-1794f347.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/lib/owlcarousel/assets/owl.video.play.png": {
+    "file": "assets/owl.video.play-04360456.png",
+    "src": "resources/css/lib/owlcarousel/assets/owl.video.play.png"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-88608f7d.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/owl.video.play-04360456.png"
+    ],
+    "css": [
+      "assets/app-88608f7d.css"
+    ],
+    "file": "assets/app-05740f9d.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
